@@ -1,8 +1,10 @@
 This is my file2 for git course!!
 adding more content to file two
 
+
 add marcketing meaasage
 
 Adding some other messages 
 Add footer note 
 2024 is coming
+
