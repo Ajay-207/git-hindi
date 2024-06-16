@@ -1,2 +1,4 @@
 I am fixing file which will be used to fix the bugs 
 2nd bug fixed
+
+Another fix message for pinkmode
